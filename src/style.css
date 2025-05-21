@@ -50,3 +50,6 @@ main > h1 {
   .button:active {
     transform: translate(-1px, 1px) skewX(-1deg) skewY(1deg);
   }
+  .class-1 {
+    background: #3c36b2;
+  }
