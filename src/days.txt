@@ -204,6 +204,12 @@ day 190 : 2025/11/27
 day 191 : 2025/11/28
 day 192 : 2025/11/29
 day 193 : 2025/11/30
+--------------------
+day ??? : 2026/05/22 -- still no internet
+day ??? : 2026/05/23 -- still no internet (connected through customized psiphon -- shir o Khorshid / limited time)
+day ??? : 2026/05/24 -- still no internet (connected through customized psiphon -- shir o Khorshid / limited time)
+day ??? : 2026/05/25 -- still no internet
+day ??? : 2026/05/26 -- still no internet
 
 
 
